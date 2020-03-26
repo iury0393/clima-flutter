@@ -1,4 +1,4 @@
-[![Latest Version on Flutter](https://img.shields.io/badge/Flutter-1.12.13-blue)](https://flutter.dev/docs/get-started/install)  [![Latest Version on Android Studio](https://img.shields.io/badge/Android%20Studio-3.6.1-green)](https://developer.android.com/studio)
+[![Latest Version on Flutter](https://img.shields.io/badge/Flutter-1.12.13-blue)](https://flutter.dev/docs/get-started/install)  [![Latest Version on Android Studio](https://img.shields.io/badge/Android%20Studio-3.6.1-green)](https://developer.android.com/studio)  [![Latest Version on Geolocator](https://img.shields.io/badge/Geolocator-5.3.0-brightgreen)](https://pub.dev/packages/geolocator)
 
 # Clima
 
