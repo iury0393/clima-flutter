@@ -37,7 +37,7 @@ class _LocationScreenState extends State<LocationScreen> {
           buttons: [
             DialogButton(
               child: Text(
-                "Ensolarar",
+                'Ensolarar',
                 style: TextStyle(color: Colors.white, fontSize: 20),
               ),
               onPressed: () => Navigator.pop(context),
@@ -90,7 +90,9 @@ class _LocationScreenState extends State<LocationScreen> {
                     ),
                   ),
                   FlatButton(
-                    onPressed: () {},
+                    onPressed: () {
+                      Navigator.pushNamed(context, '/city');
+                    },
                     child: Icon(
                       Icons.location_city,
                       size: 50.0,
