@@ -2,6 +2,7 @@
 
 # Clima
 
+![Clima](Clima.gif)
 
 ## Tabela de Conteúdo
 - <a href="#informações">Informações</a>
